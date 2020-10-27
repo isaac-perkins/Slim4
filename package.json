@@ -1,0 +1,24 @@
+{
+  "name": "slim4 skeleton",
+  "version": "0.0.1",
+  "description": "ADR Slim PHP Micro-Framework skeleton with Doctrine",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webanet-au/Slim4.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/webanet-au/Slim4#readme",
+  "scripts": {
+
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  },
+  "devDependencies": {
+    "sass": "^1.24.2",
+    "sass-loader": "^7.0.1"
+  }
+}
